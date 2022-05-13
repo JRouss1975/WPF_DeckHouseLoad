@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_DeckHouseLoad", "WPF_DeckHouseLoad\WPF_DeckHouseLoad.csproj", "{F156B36E-81A9-4DC6-84D8-ACA4C35EF813}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F156B36E-81A9-4DC6-84D8-ACA4C35EF813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F156B36E-81A9-4DC6-84D8-ACA4C35EF813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F156B36E-81A9-4DC6-84D8-ACA4C35EF813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F156B36E-81A9-4DC6-84D8-ACA4C35EF813}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {621A3A1E-69C9-41BF-A9AB-2DFB5E2F459C}
+	EndGlobalSection
+EndGlobal
